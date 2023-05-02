@@ -2,6 +2,9 @@
 Portfolio
 Link: https://arupchakraborty.netlify.app/
 
+Resume
+LInk: https://arupchakraborty-resume.netlify.app/
+
 Girls World
 Link: https://girls-world-9147f.web.app/
 
@@ -38,5 +41,5 @@ Link: https://dental-care-56148.web.app/home
 Winter Vaccation
 Link: https://winter-vaccation-f113e.web.app/
 
-Portfolio
+Portfolio Obtional
 Link: https://gracious-lumiere-199c85.netlify.app/
